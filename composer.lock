@@ -999,6 +999,7 @@
                 "brick/math": "^0.9.3|^0.10.2|^0.11",
                 "composer-runtime-api": "^2.2",
                 "doctrine/inflector": "^2.0.5",
+                "fakerphp/faker": "^1.21",
                 "dragonmantank/cron-expression": "^3.3.2",
                 "egulias/email-validator": "^3.2.1|^4.0",
                 "ext-ctype": "*",
@@ -1046,7 +1047,6 @@
             "replace": {
                 "illuminate/auth": "self.version",
                 "illuminate/broadcasting": "self.version",
-                "fakerphp/faker": "^1.21",
                 "illuminate/bus": "self.version",
                 "illuminate/cache": "self.version",
                 "illuminate/collections": "self.version",
